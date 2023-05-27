@@ -10,7 +10,7 @@ This is the best method to move out a villager if you do not own any amiibos or 
 # Visitor Watering
 When visitors come to your island and water your flowers you can get more flowers to produce.
 
-![](./images/visitor_watering.png)
+<img src="./images/visitor_watering.png">
 
 # NPC Visiting Hours
 ![](./images/npc_visiting.hours.png)
