@@ -5,7 +5,7 @@ layout: default
 If you are looking for any content, check the links below!
 
 ## Animal Crossing: New Horizons
-[Brewster, Kapp'n, and Harve's Island Unlocks](./ACNH/Brewster, Kapp'n, and Harv's Island Unlocks.md)
+[Brewster, Kapp'n, and Harv's Island Unlocks](./ACNH/Brewster, Kapp'n, and Harv's Island Unlocks.md)
 
 [Building Sizes & Lake Guides](./ACNH/Building Sizes & Lake Guides.md)
 
