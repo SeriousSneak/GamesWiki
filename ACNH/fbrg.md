@@ -4,10 +4,15 @@ layout: default
 
 # Flowers
 ![[./-Archives/images/all_flowers.png]]
+
 ![[./-Archives/images/hybrid_guide2.png]]
+
 ![[./-Archives/images/lotv.png]]
+
 ![[./-Archives/images/flower_guide.png]]
+
 ![[./-Archives/images/gardening101.png]]
+
 ![[./-Archives/images/hybrid_guide.png]]
 
 # Crops
@@ -15,6 +20,7 @@ layout: default
 
 # Shrubs
 ![[./-Archives/images/shrubs.png]]
+
 ![[./-Archives/images/shrub_seasons.png]]
 
 # Rock Gardens
