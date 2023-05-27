@@ -1,8 +1,6 @@
-—-
-
+---
 layout: default
-
-—-
+---
 
 # Flowers
 ![[./-Archives/images/all_flowers.png]]
