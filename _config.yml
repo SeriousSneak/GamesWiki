@@ -1,0 +1,25 @@
+# Site settings
+title: A Wiki made by Erin
+author:
+  name: Erin Skidds
+  email: erin@dudethatserin.com
+description: "This is where Erin stores all of the info she has from games."
+
+# Build settings
+markdown: kramdown
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-relative-links
+  - jekyll-remote-theme
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
