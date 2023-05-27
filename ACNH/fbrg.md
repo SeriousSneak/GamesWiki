@@ -3,20 +3,22 @@ layout: default
 —-
 
 # Flowers
-![[all_flowers.png]]
-![[hybrid_guide2.png]]
-![[lotv.png]]
-![[flower_guide.png]]
-![[gardening101.png]]
-![](https://wiki.dudethatserin.com/wp-content/uploads/2023/05/FgPwe8V.jpg)
-![[hybrid_guide.png]]
+![[./-Archives/images/all_flowers.png]]
+![[./-Archives/images/hybrid_guide2.png]]
+![[./-Archives/images/lotv.png]]
+![[./-Archives/images/flower_guide.png]]
+![[./-Archives/images/gardening101.png]]
+![[./-Archives/images/hybrid_guide.png]]
 
 # Crops
-![[crops.png]]
+![[./-Archives/images/crops.png]]
 
 # Shrubs
-![[shrubs.png]]
-![[shrub_seasons.png]]
+![[./-Archives/images/shrubs.png]]
+![[./-Archives/images/shrub_seasons.png]]
 
 # Rock Gardens
-![[rock_gardens101.png]]
+![[./-Archives/images/rock_gardens101.png]]
+
+# Trees
+![[./-Archives/images/money_tree]]
