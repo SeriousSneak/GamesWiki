@@ -1,4 +1,4 @@
-—-
+---
 layout: default
-—-
-![[star_fragments.png]]
+---
+![[./-Archives/images/star_fragments.png]]
