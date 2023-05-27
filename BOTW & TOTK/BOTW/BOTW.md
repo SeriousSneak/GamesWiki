@@ -47,6 +47,7 @@ Also, armor with material requirements at the “base” level mean you need tho
 ## ARMOR SETS
 ### Hyrulian Set
 Level 1
+
 • 5 Bokoblin Horn
 
 Level 2
