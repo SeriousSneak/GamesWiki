@@ -5,15 +5,15 @@ layout: default
 # Move-Out Method
 This is the best method to move out a villager if you do not own any amiibos or don’t want to use amiibos.
 
-![[./-Archives/images/move-out_method.png]]
+![](./images/move-out_method.png)
 
 # Visitor Watering
 When visitors come to your island and water your flowers you can get more flowers to produce.
 
-![[./-Archives/images/visitor_watering.png]]
+![](./images/visitor_watering.png)
 
 # NPC Visiting Hours
-![[./-Archives/images/npc_visiting_hours.png]]
+![](./images/npc_visiting.hours.png)
 
 # Harv’s Island Co-Op Hours
 ![[./-Archives/images/co-op_hours.png]]
