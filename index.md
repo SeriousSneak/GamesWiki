@@ -21,4 +21,24 @@ If you are looking for any content, check the links below!
 
 
 ## The Sims 4
-... coming soon ...
+[100 Baby Challenge](./ts3-ts4/100babychl.md)
+
+[Legacy Challenge](./ts3-ts4/legchl.md)
+
+[Not So Berry Challenge](./ts3-ts4/nsb.md)
+
+[Super Sim Challenge](./ts3-ts4/supersim.md)
+
+## The Legend of Zelda
+
+### Breath of the Wild
+[Index](./botw-totk/botw/botw.md)
+
+### Tears of the Kingdom
+[Index](./botw-totk/totk/totk.md)
+
+[All Armor Sets](./botw-totk/totk/all-armor.md)
+
+[All Pony Point Rewards](./botw-totk/totk/allponypoints.md)
+
+[All Shrine, Towers, & Lightroot Locations & Rewards](./botw/totk/allshringlighttower.md)
