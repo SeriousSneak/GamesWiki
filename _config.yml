@@ -1,0 +1,9 @@
+# Site settings
+title: A Wiki made by Erin
+author:
+  name: Erin Skidds
+  email: erin@dudethatserin.com
+description: "This is where Erin stores all of the info she has from games."
+
+# Build settings
+remote_theme: minima
