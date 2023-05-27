@@ -41,4 +41,4 @@ If you are looking for any content, check the links below!
 
 [All Pony Point Rewards](./botw-totk/totk/allponypoints.md)
 
-[All Shrine, Towers, & Lightroot Locations & Rewards](./botw/totk/allshringlighttower.md)
+[All Shrine, Towers, & Lightroot Locations & Rewards](./botw-totk/totk/allshringlighttower.md)
