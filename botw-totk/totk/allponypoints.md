@@ -1,3 +1,5 @@
+# All Pony Point Rewards
+
 ![](https://youtu.be/A0gb2sbH4r8)
 You can get a pony point every time you…
 - Register a horse
