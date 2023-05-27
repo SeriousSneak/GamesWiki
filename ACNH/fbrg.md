@@ -3,28 +3,28 @@ layout: default
 ---
 
 # Flowers
-![[./-Archives/images/all_flowers.png]]
+<img src="https://wiki.dudethatserin.com/images/all_flowers.png">
 
-![[./-Archives/images/hybrid_guide2.png]]
+<img src="https://wiki.dudethatserin.com/images/hybrid_guide2.png">
 
-![[./-Archives/images/lotv.png]]
+<img src="https://wiki.dudethatserin.com/images/lotv.png">
 
-![[./-Archives/images/flower_guide.png]]
+<img src="https://wiki.dudethatserin.com/images/flower_guide.png">
 
-![[./-Archives/images/gardening101.png]]
+<img src="https://wiki.dudethatserin.com/images/gardening101.png">
 
-![[./-Archives/images/hybrid_guide.png]]
+<img src="https://wiki.dudethatserin.com/images/hybrid_guide.png">
 
 # Crops
-![[./-Archives/images/crops.png]]
+<img src="https://wiki.dudethatserin.com/images/crops.png">
 
 # Shrubs
-![[./-Archives/images/shrubs.png]]
+<img src="https://wiki.dudethatserin.com/images/shrubs.png">
 
-![[./-Archives/images/shrub_seasons.png]]
+<img src="https://wiki.dudethatserin.com/images/shrub_seasons.png">
 
 # Rock Gardens
-![[./-Archives/images/rock_gardens101.png]]
+<img src="https://wiki.dudethatserin.com/images/rock_gardens101.png">
 
 # Trees
-![[./-Archives/images/money_tree]]
+<img src="https://wiki.dudethatserin.com/images/money_tree">
