@@ -27,4 +27,4 @@ layout: default
 <img src="https://wiki.dudethatserin.com/images/rock_gardens101.png">
 
 # Trees
-<img src="https://wiki.dudethatserin.com/images/money_tree">
+<img src="https://wiki.dudethatserin.com/images/money_tree.png">
