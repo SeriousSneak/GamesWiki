@@ -1,3 +1,7 @@
+—-
+layout: default
+—-
+
 Order Bots are Bots that you can order up-to 40 items from. These are used either via Twitch or Discord.
 
 ### Places I recommend using…

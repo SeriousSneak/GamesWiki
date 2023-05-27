@@ -1,3 +1,7 @@
+—-
+layout: default
+—-
+
 #### What achievements are available as you design Vacation Homes?
 
 For a list of Milestones please visit:

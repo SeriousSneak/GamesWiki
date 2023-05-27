@@ -1,3 +1,7 @@
+—-
+layout: default
+—-
+
 # Flowers
 ![[all_flowers.png]]
 ![[hybrid_guide2.png]]

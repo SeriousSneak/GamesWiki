@@ -1,3 +1,7 @@
+—-
+layout: default
+—-
+
 # Move-Out Method
 This is the best method to move out a villager if you do not own any amiibos or don’t want to use amiibos.
 ![[move-out_method.png]]
