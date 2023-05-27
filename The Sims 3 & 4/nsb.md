@@ -1,3 +1,5 @@
+# Not So Berry Challenge - Sims 4 Challenge
+
 Do you like the rainbow? Do you like the idea of playing with berry Sims but hate berry Sims? Do you want to mess around with aspects of the game you’ve never used before? Boy, do I have the challenge for you!
 
 Welcome to the **Not So Berry Legacy Challenge**, a ten generation legacy with a focus on bright colors and new experiences.
