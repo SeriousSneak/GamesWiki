@@ -20,11 +20,16 @@ This is how many Korok seeds you need to upgrade each stash.
 
 TOTAL NEEDED: 310
 
-For weapons it goes:  160 needed
+For weapons it goes:  
+
 1, 2, 3, 5, 8, 12, 17 25, 35, 45, 55.  
-For bows it goes:  25 needed (I think)
+
+For bows it goes: 
+
 1, 2, 3, 5, 8, 12, 17, 25.  
-For shields it goes:  125 needed
+
+For shields it goes: 
+
 1, 2, 3, 4, 5, 10, 10, 10, 10, 10, 15, 15, 15, 15, 15, 20
 
 # All Upgrade Materials (Amiibo Armors Not Included)
