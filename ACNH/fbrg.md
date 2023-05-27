@@ -7,13 +7,13 @@ layout: default
 
 <img src="https://wiki.dudethatserin.com/images/hybrid_guide2.png">
 
-<img src="https://wiki.dudethatserin.com/images/lotv.png">
-
 <img src="https://wiki.dudethatserin.com/images/flower_guide.png">
 
 <img src="https://wiki.dudethatserin.com/images/gardening101.png">
 
 <img src="https://wiki.dudethatserin.com/images/hybrid_guide.png">
+
+<img src="https://wiki.dudethatserin.com/images/lotv.png">
 
 # Crops
 <img src="https://wiki.dudethatserin.com/images/crops.png">
