@@ -1,13 +1,18 @@
 # Every Lightroot Location & Their Rewards
-![](https://youtu.be/DSUuHGOY9X0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DSUuHGOY9X0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # All Tower Locations
-![](https://youtu.be/3Ai1wBDaxMA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Ai1wBDaxMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # All 152 Shrine Locations
-![](https://youtu.be/gJT-g56CVmk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gJT-g56CVmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # First 22 Shrines
 ## Landon’s Brow
-![](https://youtu.be/ih3p-RGtqMo)
+<iframe width="560" height="315" src="https://youtu.be/embed/ih3p-RGtqMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Lookout Landing
-![](https://youtu.be/CbPotxi84_I)
+<iframe width="560" height="315" src="https://youtu.be/embed/CbPotxi84_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Great Sky Island
-![](https://youtu.be/YPKEw25sFDs)
+<iframe width="560" height="315" src="https://youtu.be/embed/YPKEw25sFDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
