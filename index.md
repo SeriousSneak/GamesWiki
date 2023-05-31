@@ -19,6 +19,8 @@ If you are looking for any content, check the links below!
 
 [Star Fragments](./ACNH/Star-Fragments.md)
 
+[Trading FAQ](./ACNH/TradingFAQ.md)
+
 
 ## The Sims 4
 [100 Baby Challenge](./ts3-ts4/100babychl.md)
