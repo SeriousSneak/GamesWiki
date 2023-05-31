@@ -14,3 +14,5 @@ These are all of the pages that you can find dedicated to the popular game.
 [NPC Schedules](./ACNH/NPC-Schedules.md)
 
 [Star Fragments](./ACNH/Star-Fragments.md)
+
+[Common Trading Termonology](./ACNH/TradeFAQ.md)

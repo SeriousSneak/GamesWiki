@@ -15,6 +15,8 @@ layout: default
 
 <img src="https://wiki.dudethatserin.com/images/lotv.png">
 
+# Weeds
+<img src="https://wiki.dudethatserin.com/images/weeds.png">
 # Crops
 <img src="https://wiki.dudethatserin.com/images/crops.png">
 
