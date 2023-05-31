@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-![[./-Archives/images/star_fragments.png]]
+<img src="https://wiki.dudethatserin.com/images/star_fragments.png">

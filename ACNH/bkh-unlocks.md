@@ -3,10 +3,10 @@ layout: default
 ---
 
 # Harvey’s Plaza Upgrades
-![](./-Archives/images/harvs.png)
+<img src="https://wiki.dudethatserin.com/images/harvs.png">
 
 # Kapp’n Unlock Requirements
-![](./-Archives/images/kappn.png)
+<img src="https://wiki.dudethatserin.com/images/kappn.png">
 
 # Brewster Unlock Requirements
-![](./-Archives/images/brewster.jpeg)
+<img src="https://wiki.dudethatserin.com/images/brewster.jpeg">
