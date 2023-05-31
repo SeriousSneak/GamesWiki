@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ts3-ts4/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ts3-ts4/index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ts3-ts4/index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ts3-ts4/index.md"
+                "file": "index.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "c0c02b48a8867954",
   "lastOpenFiles": [
+    "ts3-ts4/index.md",
     "botw-totk/totk/index.md",
     "botw-totk/botw/index.md",
     "ACNH/index.md",
-    "ts3-ts4/index.md",
     "index.md",
     "ACNH/TTFAQ.md",
     "ACNH/fbrg.md",
