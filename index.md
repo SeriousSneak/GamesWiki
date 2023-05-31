@@ -44,3 +44,7 @@ If you are looking for any content, check the links below!
 [All Pony Point Rewards](./botw-totk/totk/allponypoints.md)
 
 [All Shrine, Towers, & Lightroot Locations & Rewards](./botw-totk/totk/allshrinelighttower.md)
+
+
+###### Credits
+This was created using [Obsidian](https://obsidian.md) + [GitHub](https://github.com) using [GitHub Pages](https://pages.github.com) with the Hacker theme.
