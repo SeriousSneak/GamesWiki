@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "botw-totk/totk/index.md",
+                "file": "ACNH/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "botw-totk/totk/index.md",
+                "file": "ACNH/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "botw-totk/totk/index.md",
+                "file": "ACNH/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "botw-totk/totk/index.md"
+                "file": "ACNH/index.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "c0c02b48a8867954",
   "lastOpenFiles": [
+    "botw-totk/totk/index.md",
     "botw-totk/botw/index.md",
     "ACNH/index.md",
     "ACNH/bs-lg.md",
@@ -165,7 +166,6 @@
     "ts3-ts4/index.md",
     "_layouts/default.html~",
     "ts3-ts4/100 Baby Challenge - Sims 3 or 4 Challenge.md",
-    "botw-totk/totk/index.md",
     "botw-totk/botw/misc.md",
     "_layouts/default.html",
     "_layouts",

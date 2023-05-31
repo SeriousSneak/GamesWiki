@@ -18,4 +18,4 @@ These are all of the pages that you can find dedicated to the popular game.
 
 [Star Fragments](./ACNH/Star-Fragments.md)
 
-[Common Trading Termonology](./ACNH/TradeFAQ.md)
+[Trading FAQ](./ACNH/TradeFAQ.md)
