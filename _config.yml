@@ -11,6 +11,7 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
+ show_downloads: true
 relative_links:
   enabled: true
   collections: true
