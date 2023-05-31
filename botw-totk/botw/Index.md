@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # The Legend of Zelda: Breath of the Wild
 <img src="https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000000025/7137262b5a64d921e193653f8aa0b722925abc5680380ca0e18a5cfd91697f58">
 

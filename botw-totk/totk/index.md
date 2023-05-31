@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Zelda: Tears of the Kingdom
 <img src="https://www.zeldadungeon.net/wp-content/uploads/2023/05/Tears-of-the-Kingdom-Official-Art.jpg">
 

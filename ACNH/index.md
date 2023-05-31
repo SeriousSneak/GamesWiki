@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Animal Crossing: New Horizons
 These are all of the pages that you can find dedicated to the popular game.
 
