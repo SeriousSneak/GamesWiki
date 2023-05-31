@@ -5,50 +5,48 @@ layout: default
 If you are looking for any content, check the links below!
 
 ## Animal Crossing: New Horizons
-[Brewster, Kapp'n, and Harv's Island Unlocks](./ACNH/bkh-unlocks.md)
+[Brewster, Kapp'n, and Harv's Island Unlocks](./ACNH/bkh-unlocks.html)
 
-[Building Sizes & Lake Guides](./ACNH/bs-lg.md)
+[Building Sizes & Lake Guides](./ACNH/bs-lg.html)
 
-[Codes for Order Bots](./ACNH/orderbots-codes.md)
+[Codes for Order Bots](./ACNH/orderbots-codes.html)
 
-[Flowers, Bushes, & Rock Gardens](./ACNH/fbrg.md)
+[Flowers, Bushes, & Rock Gardens](./ACNH/fbrg.html)
 
-[Happy Home Paradise FAQs](./ACNH/hhp-faqs.md)
+[Happy Home Paradise FAQs](./ACNH/hhp-faqs.html)
 
-[NPC Schedules](./ACNH/NPC-Schedules.md)
+[NPC Schedules](./ACNH/NPC-Schedules.html)
 
-[Star Fragments](./ACNH/Star-Fragments.md)
+[Star Fragments](./ACNH/Star-Fragments.html)
 
-[Trading FAQ](./ACNH/TradingFAQ.md)
+[Trading FAQ](./ACNH/TradingFAQ.html)
 
-[Time Travel FAQ](./ACNH/TTFAQ.md)
+[Time Travel FAQ](./ACNH/TTFAQ.html)
 ## The Sims 4
-[100 Baby Challenge](./ts3-ts4/100babychl.md)
+[100 Baby Challenge](./ts3-ts4/100babychl.html)
 
-[Legacy Challenge](./ts3-ts4/legchl.md)
+[Legacy Challenge](./ts3-ts4/legchl.html)
 
-[Not So Berry Challenge](./ts3-ts4/nsb.md)
+[Not So Berry Challenge](./ts3-ts4/nsb.html)
 
-[Super Sim Challenge](./ts3-ts4/supersim.md)
+[Super Sim Challenge](./ts3-ts4/supersim.html)
 
 ## The Legend of Zelda
-
 ### Breath of the Wild
-[Index](index.md)
+[Index](index.html)
 
-[Miscellaneous Information](./botw-totk/botw/misc.md)
+[Miscellaneous Information](./botw-totk/botw/misc.html)
 
-[All Upgrade Materials for Armors](./botw-totk/botw/UpgradeMaterials4Armors.md)
+[All Upgrade Materials for Armors](./botw-totk/botw/UpgradeMaterials4Armors.html)
 
 ### Tears of the Kingdom
-[Index](botw-totk/totk/index.md)
+[Index](botw-totk/totk/index.html)
 
-[All Armor Sets](./botw-totk/totk/all-armor.md)
+[All Armor Sets](./botw-totk/totk/all-armor.html)
 
-[All Pony Point Rewards](./botw-totk/totk/allponypoints.md)
+[All Pony Point Rewards](./botw-totk/totk/allponypoints.html)
 
-[All Shrine, Towers, & Lightroot Locations & Rewards](./botw-totk/totk/allshrinelighttower.md)
-
+[All Shrine, Towers, & Lightroot Locations & Rewards](./botw-totk/totk/allshrinelighttower.html)
 
 ###### Credits
 This was created using [Obsidian](https://obsidian.md) + [GitHub](https://github.com) using [GitHub Pages](https://pages.github.com) with the Hacker theme.

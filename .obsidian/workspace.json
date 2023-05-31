@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "ACNH/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "ACNH/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "ACNH/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "ACNH/index.md"
               }
             }
           }
@@ -148,13 +148,15 @@
   },
   "active": "c0c02b48a8867954",
   "lastOpenFiles": [
+    "ts3-ts4/index.md",
+    "botw-totk/totk/index.md",
+    "botw-totk/botw/index.md",
+    "index.md",
     "ACNH/index.md",
     "ACNH/TTFAQ.md",
     "ACNH/fbrg.md",
     "images/acyear480.mp4",
     "images/acyear480.mp4.crdownload",
-    "botw-totk/totk/index.md",
-    "botw-totk/botw/index.md",
     "ACNH/bs-lg.md",
     "images/4MapsRS.png",
     "ACNH/TradeFAQ.md",
@@ -164,9 +166,7 @@
     "ts3-ts4/100babychl.md",
     "ACNH/NPC-Schedules.md",
     "ACNH/Star-Fragments.md",
-    "index.md",
     "images/weeds.png",
-    "ts3-ts4/index.md",
     "_layouts/default.html~",
     "ts3-ts4/100 Baby Challenge - Sims 3 or 4 Challenge.md",
     "botw-totk/botw/misc.md",

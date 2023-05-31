@@ -5,10 +5,10 @@ This is where I store challenges I am doing or find interesting in The Sims. I p
 
 Here are the links to the different pages:
 
-[100 Baby Challenge](./ts3-ts4/100babychl.md)
+[100 Baby Challenge](./ts3-ts4/100babychl.html)
 
-[Legacy Challenge](./ts3-ts4/legchl.md)
+[Legacy Challenge](./ts3-ts4/legchl.html)
 
-[Not So Berry Challenge](./ts3-ts4/nsb.md)
+[Not So Berry Challenge](./ts3-ts4/nsb.html)
 
-[Super Sim Challenge](./ts3-ts4/supersim.md)
+[Super Sim Challenge](./ts3-ts4/supersim.html)
