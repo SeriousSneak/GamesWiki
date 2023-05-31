@@ -1,4 +1,7 @@
-![](https://youtu.be/A0gb2sbH4r8)
+# All Pony Point Rewards
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A0gb2sbH4r8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 You can get a pony point every time you…
 - Register a horse
 - Visit a new stable & talk to the person you register horses with

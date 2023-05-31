@@ -3,7 +3,7 @@
 <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/legend-of-zelda-tears-of-the-kingdom-totk-amber-earrings-1.jpg?q=50&fit=crop&w=943&dpr=1.5">
 <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/the-legendof-zelda-tears-of-the-kingdom-totk-armor-misc-diamond-circlet.jpg?q=50&fit=crop&w=767&dpr=1.5">
 <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/the-legendof-zelda-tears-of-the-kingdom-totk-armor-misc-opal-earrings.jpg?q=50&fit=crop&w=767&dpr=1.5">
-<img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/the-legendof-zelda-tears-of-the-kingdom-totk-armor-misc-ruby-circlet.jpg?q=50&fit=crop&w=767&dpr=1.5'>
+<img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/the-legendof-zelda-tears-of-the-kingdom-totk-armor-misc-ruby-circlet.jpg?q=50&fit=crop&w=767&dpr=1.5">
 <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/the-legendof-zelda-tears-of-the-kingdom-totk-armor-misc-sapphire-circlet.jpg?q=50&fit=crop&w=767&dpr=1.5">
 <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/the-legendof-zelda-tears-of-the-kingdom-totk-armor-misc-topaz-earrings.jpg?q=50&fit=crop&w=767&dpr=1.5">
 
@@ -46,10 +46,15 @@ Need to beat Gerudo Dungeon for these.
 <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/the-legendof-zelda-tears-of-the-kingdom-totk-armor-misc-moblin-mask.jpg?q=50&fit=crop&w=767&dpr=1.5">
 
 **Price:**
+
 - 1 Bubbul Gem for Bokoblin Mask
+
 - 29 Bubbul Gems for Horriblin Mask
+
 - 14 Bubbul Gems for Lizalfos Mask
+
 - 37 Bubbul Gems for Lynel Mask
+
 - 3 Bubbul Gems for Moblin Mask
 
 **Location:** Koltin or Kilton at night
