@@ -34,7 +34,7 @@ If you are looking for any content, check the links below!
 ### Breath of the Wild
 [Index](./botw-totk/botw/botw.md)
 
-[All Upgrade Materials for Armors](./botw-totk/botw/UpgradeMaterials4Armor.md)
+[All Upgrade Materials for Armors](./botw-totk/botw/UpgradeMaterials4Armors.md)
 
 ### Tears of the Kingdom
 [Index](./botw-totk/totk/totk.md)
