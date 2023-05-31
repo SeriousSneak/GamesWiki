@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACNH/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "shru",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACNH/index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACNH/index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACNH/index.md"
+                "file": "index.md"
               }
             }
           }
@@ -148,9 +148,13 @@
   },
   "active": "c0c02b48a8867954",
   "lastOpenFiles": [
+    "ACNH/index.md",
+    "ACNH/TTFAQ.md",
+    "ACNH/fbrg.md",
+    "images/acyear480.mp4",
+    "images/acyear480.mp4.crdownload",
     "botw-totk/totk/index.md",
     "botw-totk/botw/index.md",
-    "ACNH/index.md",
     "ACNH/bs-lg.md",
     "images/4MapsRS.png",
     "ACNH/TradeFAQ.md",
@@ -161,7 +165,6 @@
     "ACNH/NPC-Schedules.md",
     "ACNH/Star-Fragments.md",
     "index.md",
-    "ACNH/fbrg.md",
     "images/weeds.png",
     "ts3-ts4/index.md",
     "_layouts/default.html~",
@@ -172,8 +175,6 @@
     "style.scss",
     "README.md",
     "LICENSE",
-    "CNAME",
-    "_config.yml",
     "ts3-ts4/nsb.md",
     "ts3-ts4/supersim.md",
     "ts3-ts4/Super Sim Challenge - Sims 3 or 4 Challenge.md",
@@ -192,7 +193,6 @@
     "botw-totk/totk/allponypoints.md",
     "botw-totk/totk/all-armor.md",
     "botw-totk/botw/UpgradeMaterials4Armors.md",
-    "ACNH/orderbots-codes.md",
-    "ACNH/hhp-faqs.md"
+    "ACNH/orderbots-codes.md"
   ]
 }

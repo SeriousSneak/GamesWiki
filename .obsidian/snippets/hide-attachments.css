@@ -1,6 +1,8 @@
-/* hide attachments folder */
-div[data-path='-Archives'],
-div[data-path='-Archives'] + div.nav-folder-children
+/* hide layouts & assets folders */
+div[data-path='_layouts'],
+div[data-path='_layouts'] + div.nav-folder-children,
+div[data-path='assets'],
+div[data-path='assets'] + div.nav-folder-children
 {
     display: none;
 }

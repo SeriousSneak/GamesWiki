@@ -25,6 +25,8 @@ layout: default
 
 <img src="https://wiki.dudethatserin.com/images/shrub_seasons.png">
 
+![[acyear480.mp4]]
+(credit to Nours#7244 on Discord for this video)
 # Rock Gardens
 <img src="https://wiki.dudethatserin.com/images/rock_gardens101.png">
 

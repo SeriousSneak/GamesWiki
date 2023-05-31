@@ -21,7 +21,7 @@ If you are looking for any content, check the links below!
 
 [Trading FAQ](./ACNH/TradingFAQ.md)
 
-
+[Time Travel FAQ](./ACNH/TTFAQ.md)
 ## The Sims 4
 [100 Baby Challenge](./ts3-ts4/100babychl.md)
 

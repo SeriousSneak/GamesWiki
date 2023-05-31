@@ -19,3 +19,5 @@ These are all of the pages that you can find dedicated to the popular game.
 [Star Fragments](./ACNH/Star-Fragments.md)
 
 [Trading FAQ](./ACNH/TradeFAQ.md)
+
+[Time Travel FAQ](./ACNH/TTFAQ.md)
