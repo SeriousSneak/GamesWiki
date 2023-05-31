@@ -13,7 +13,7 @@ When visitors come to your island and water your flowers you can get more flower
 <img src="https://wiki.dudethatserin.com/images/visitor_watering.png">
 
 # NPC Visiting Hours
-<img src="https://wiki.dudethatserin.com/images/npc_visiting.hours.png">
+<img src="https://wiki.dudethatserin.com/images/npc_visiting_hours.png">
 
 # Harv’s Island Co-Op Hours
 <img src="https://wiki.dudethatserin.com/images/co-op_hours.png">
@@ -29,7 +29,7 @@ This is everything you need to know about how villagers move-into your island an
 <img src="https://wiki.dudethatserin.com/images/move-in_mechanics.png">
 
 # Adopting Villagers 101
-<img src="https://wiki.dudethatserin.com/images/adopting101.png">
+<img src="https://wiki.dudethatserin.com/images/adoption101.png">
 
 # Empty Plots Guide
 <img src="https://wiki.dudethatserin.com/images/emptyplotsguide.png">
