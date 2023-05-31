@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "9065c76ff2984935",
+    "type": "split",
+    "children": [
+      {
+        "id": "db04a3b55a35a935",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74749d2f5845e304",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ts3-ts4/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f68acad72016b80",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c0c02b48a8867954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6f0f5bef88a02b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba487586ea1d7338",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "308ee5f4cdd89066",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "387956904c3d3a45",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "49fc002c807ece0b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c34417b79f3acaec",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cfae59c3801d21f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "442bf8d492548cb0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ts3-ts4/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6cd813f32bc471e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ts3-ts4/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "434a7265ba6d6957",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8f1ff9a388555014",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ts3-ts4/index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "308ee5f4cdd89066",
+  "lastOpenFiles": [
+    "_layouts/default.html~",
+    "ts3-ts4/100babychl.md",
+    "index.md",
+    "ts3-ts4/100 Baby Challenge - Sims 3 or 4 Challenge.md",
+    "ts3-ts4/index.md",
+    "botw-totk/totk/index.md",
+    "botw-totk/botw/index.md",
+    "botw-totk/botw/misc.md",
+    "ACNH/index.md",
+    "_layouts/default.html",
+    "_layouts",
+    "style.scss",
+    "README.md",
+    "LICENSE",
+    "CNAME",
+    "_config.yml",
+    "ts3-ts4/nsb.md",
+    "ts3-ts4/supersim.md",
+    "ts3-ts4/Super Sim Challenge - Sims 3 or 4 Challenge.md",
+    "ts3-ts4/legchl.md",
+    "ts3-ts4/Not So Berry Challenge - Sims 4 Challenge.md",
+    "ts3-ts4/Legacy Challenge - Sims 3 or 4 Challenge.md",
+    "ts3-ts4",
+    "images/visitor_watering.png",
+    "images/trees3.png",
+    "images/star_fragments.png",
+    "images/shrub_seasons.png",
+    "images/shrubs.png",
+    "images/seasonal_items.png",
+    "images/roost.jpeg",
+    "images/rock_gardens101.png",
+    "images/reactions.jpeg",
+    "images/Pasted image 20230525011315.png",
+    "images",
+    "botw-totk/totk/allshrinelighttower.md",
+    "botw-totk/totk/allponypoints.md",
+    "botw-totk/totk/all-armor.md",
+    "botw-totk/botw/UpgradeMaterials4Armors.md",
+    "botw-totk/totk",
+    "botw-totk/botw",
+    "ACNH/Star-Fragments.md",
+    "ACNH/orderbots-codes.md",
+    "ACNH/NPC-Schedules.md",
+    "ACNH/hhp-faqs.md",
+    "ACNH/fbrg.md",
+    "ACNH/bs-lg.md"
+  ]
+}

@@ -32,12 +32,14 @@ If you are looking for any content, check the links below!
 ## The Legend of Zelda
 
 ### Breath of the Wild
-[Index](./botw-totk/botw/botw.md)
+[Index](index.md)
+
+[Miscellaneous Information](./botw-totk/botw/misc.md)
 
 [All Upgrade Materials for Armors](./botw-totk/botw/UpgradeMaterials4Armors.md)
 
 ### Tears of the Kingdom
-[Index](./botw-totk/totk/totk.md)
+[Index](botw-totk/totk/index.md)
 
 [All Armor Sets](./botw-totk/totk/all-armor.md)
 

@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Arial Rounded MT",
+  "baseFontSize": 14,
+  "enabledCssSnippets": [
+    "custom-callouts",
+    "custom-checkboxes",
+    "hide-attachments"
+  ],
+  "baseFontSizeAction": true
+}

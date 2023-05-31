@@ -1,0 +1,249 @@
+{
+  "choices": [
+    {
+      "id": "aed5d2de-ef62-4a2b-ab9b-26247b6d3204",
+      "name": "add movie",
+      "type": "Macro",
+      "command": true,
+      "macroId": "204f1e0a-7628-4152-80a5-5edb7b05dbb2"
+    },
+    {
+      "id": "603957fa-7610-4aba-9820-60cf63442058",
+      "name": "add tv show",
+      "type": "Macro",
+      "command": true,
+      "macroId": "1ed7c63c-dfd3-42d4-8ec9-ad9e71063ba3"
+    },
+    {
+      "id": "008236fb-7ba2-4872-a9a9-84474dbb8d79",
+      "name": "add game",
+      "type": "Macro",
+      "command": true,
+      "macroId": "053a0afe-993d-453e-9f11-c72cb5b5f488"
+    },
+    {
+      "id": "e8105f27-c595-450b-87fe-5a558611175a",
+      "name": "add book",
+      "type": "Macro",
+      "command": true,
+      "macroId": "1b15d527-fd95-43ce-be44-b2aa6811c6f8"
+    }
+  ],
+  "macros": [
+    {
+      "name": "movie",
+      "id": "204f1e0a-7628-4152-80a5-5edb7b05dbb2",
+      "commands": [
+        {
+          "name": "movies",
+          "type": "UserScript",
+          "id": "c9af29ba-aa7d-4da8-bc9d-73a197916fa0",
+          "path": "-Archives/Scripts/movies.js",
+          "settings": {
+            "OMDb API Key": "236f51db"
+          }
+        },
+        {
+          "name": "Put in Movies folder with Movies Template",
+          "type": "NestedChoice",
+          "id": "eabbb6c3-d180-40cb-829f-d3e1b6894b6a",
+          "choice": {
+            "id": "c69a31ce-b0db-42cc-a9f8-a925b030110e",
+            "name": "Put in Movies folder with Movies Template",
+            "type": "Template",
+            "command": false,
+            "templatePath": "-Templates/Movie Template.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:fileName}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "Databases/Movies"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": true,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "fileExistsMode": "Nothing",
+            "setFileExistsBehavior": true
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "add tv show",
+      "id": "1ed7c63c-dfd3-42d4-8ec9-ad9e71063ba3",
+      "commands": [
+        {
+          "name": "tv",
+          "type": "UserScript",
+          "id": "c1ed37cc-4a19-4360-93ef-b03528a59034",
+          "path": "-Archives/Scripts/tv.js",
+          "settings": {
+            "OMDb API Key": "236f51db"
+          }
+        },
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "e8455f69-782e-47a3-864e-6951b23e5d8e",
+          "choice": {
+            "id": "18bafd05-e7d1-46ca-911e-6235857326b9",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "-Templates/Movie Template.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:fileName}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "Databases/TV Shows"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": true,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "fileExistsMode": "Nothing",
+            "setFileExistsBehavior": true
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "add game",
+      "id": "053a0afe-993d-453e-9f11-c72cb5b5f488",
+      "commands": [
+        {
+          "name": "games",
+          "type": "UserScript",
+          "id": "61fef679-b23b-4981-906a-2e4d8e281a67",
+          "path": "-Archives/Scripts/games.js",
+          "settings": {
+            "OMDb API Key": "236f51db"
+          }
+        },
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "afd22463-e423-40bb-a3c1-26493b492695",
+          "choice": {
+            "id": "cc866239-7838-4884-a351-37642d52f560",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "-Templates/Game Template.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:fileName}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "Databases/Games"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": true,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "fileExistsMode": "Overwrite the file",
+            "setFileExistsBehavior": true
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "add book",
+      "id": "1b15d527-fd95-43ce-be44-b2aa6811c6f8",
+      "commands": [
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "e8e88e10-adc7-49eb-af7d-89e5ecee98c5",
+          "choice": {
+            "id": "8fd3492f-b2e4-4cb4-89b1-e87e0749e1f5",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "-Templates/Books Template.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:fileName}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "Databases/Books"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": true,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "fileExistsMode": "Nothing",
+            "setFileExistsBehavior": true
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "-Templates",
+  "announceUpdates": true,
+  "version": "1.0.1",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}
