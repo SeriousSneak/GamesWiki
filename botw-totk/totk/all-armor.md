@@ -1,12 +1,6 @@
-
+This is a list of all of the armor sets that it is possible to get within Tears of the Kingdom. My recommendation is to `CTR/CMD + F` and search through this list. This will also include the price to upgrade these at the Fairy Fountains. I've also decided (to shorten the list) I'm going to include videos (if available) as well as text for each of the items.
 # Amber Earrings, Diamond Circlet, Opal Earrings, Sapphire Circlet, & Ruby Circlet
-<img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/legend-of-zelda-tears-of-the-kingdom-totk-amber-earrings-1.jpg?q=50&fit=crop&w=943&dpr=1.5">
-<img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/the-legendof-zelda-tears-of-the-kingdom-totk-armor-misc-diamond-circlet.jpg?q=50&fit=crop&w=767&dpr=1.5">
-<img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/the-legendof-zelda-tears-of-the-kingdom-totk-armor-misc-opal-earrings.jpg?q=50&fit=crop&w=767&dpr=1.5">
-<img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/the-legendof-zelda-tears-of-the-kingdom-totk-armor-misc-ruby-circlet.jpg?q=50&fit=crop&w=767&dpr=1.5">
-<img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/the-legendof-zelda-tears-of-the-kingdom-totk-armor-misc-sapphire-circlet.jpg?q=50&fit=crop&w=767&dpr=1.5">
-<img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/the-legendof-zelda-tears-of-the-kingdom-totk-armor-misc-topaz-earrings.jpg?q=50&fit=crop&w=767&dpr=1.5">
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JXU7CYkzd9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 **Price:**
 
 - 400 Rupees for Amber Earrings
@@ -27,16 +21,16 @@
 
 For the last three I need to beat the Gerudo Dungeon and complete “The Missing Owner” side quest
 
-# Sand Boots
-<img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/the-legendof-zelda-tears-of-the-kingdom-totk-armor-misc-sand-boots.jpg?q=50&fit=crop&w=767&dpr=1.5">
-
+# Sand & Snow Boots
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s8mSmwei8mY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XowLO7kG9YU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 **Price:** 1,200 Rupees
 
 **Location:** Gerudo Secret Club
 
 **Coordinates:** -3793, -2921, 0043
 
-Need to beat Gerudo Dungeon for these.
+- Need to beat Gerudo Dungeon for the Sand Boots.
 
 # Monster Masks
 <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/the-legendof-zelda-tears-of-the-kingdom-totk-armor-misc-sapphire-circlet.jpg?q=50&fit=crop&w=767&dpr=1.5">
