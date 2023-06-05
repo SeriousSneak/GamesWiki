@@ -22,5 +22,11 @@
   "anuppuccin-theme-settings@@anp-pdf-blend-toggle-dark": true,
   "anuppuccin-theme-settings@@anp-pdf-blend-toggle-light": true,
   "anuppuccin-theme-settings@@anp-rainbow-file-toggle": true,
-  "anuppuccin-theme-settings@@anp-rainbow-folder-bg-opacity": 0.1
+  "anuppuccin-theme-settings@@anp-rainbow-folder-bg-opacity": 0.1,
+  "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-cyan-dt",
+  "obsidian-prism-theme@@pt-custom-vault-banner": true,
+  "obsidian-prism-theme@@custom-vault-banner-icon-url": "url('https://cdn-icons-png.flaticon.com/512/8712/8712116.png')",
+  "obsidian-prism-theme@@pt-custom-vault-banner-sticky": true,
+  "obsidian-prism-theme@@custom-vault-banner-order": "pt-custom-vault-banner-order-ltr",
+  "obsidian-prism-theme@@file-line-width": 1800
 }

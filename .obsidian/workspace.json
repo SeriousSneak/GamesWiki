@@ -8,26 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c0c02b48a8867954",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "botw-totk/totk/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37c36b40742d5e46",
-            "type": "leaf",
-            "state": {
-              "type": "style-settings",
-              "state": {}
-            }
-          },
-          {
             "id": "463a427898842bbf",
             "type": "leaf",
             "state": {
@@ -38,9 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f135989b0d7c193c",
+            "type": "leaf",
+            "state": {
+              "type": "style-settings",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "463a427898842bbf",
+  "active": "f135989b0d7c193c",
   "lastOpenFiles": [
     "botw-totk/totk/allponypoints.md",
     "botw-totk/totk/all-armor.md",

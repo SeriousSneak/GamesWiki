@@ -16,7 +16,7 @@ These are extremely useful for finding enemies, camps, etc.
 
 <a href="https://www.zeldadungeon.net/tears-of-the-kingdom-interactive-map">Zelda Dungeon Interactive Map</a> - This is the one I use. It is super simple to filter items on the right side and you can get to the other maps by clicking buttons on the left. They even link to more information on how to get Koroks.
 <h4>Other Resources</h4>
-<a href="https://docs.google.com/spreadsheets/d/1an06KpSDgW0MLfFs346EOXXBhElYuzTvPhdxXp6T8Hs/edit#gid=750468372" target="_blank">Tears of the Kingdom Armor Google Sheet Document</a> - 
+<a href="https://docs.google.com/spreadsheets/d/1an06KpSDgW0MLfFs346EOXXBhElYuzTvPhdxXp6T8Hs/edit#gid=750468372" target="_blank">Tears of the Kingdom Armor Google Sheet Document</a> - This is a better list (than what I had) of all of the armors and what is needed to upgrade them. It also includes set bonus information and the total materials needed to upgrade everything.
 
 <a href="https://www.ign.com/wikis/the-legend-of-zelda-tears-of-the-kingdom/Materials_and_Resources_List">IGN's Materials &amp; Resources List</a> - I highly recommend this page as it is not nearly as bad as their interactive map. I use IGN for everything else besides the map.
 
@@ -27,26 +27,60 @@ These are extremely useful for finding enemies, camps, etc.
 <a href="https://www.youtube.com/@AustinJohnPlays">Austin John Plays</a> - He is a fantastic YouTuber that goes over glitches as well as the best methods to go through the game.
 
 ### Upgrading Stashes
-This is the amount of Korok seeds you need for upgrading your weapons stash, bow stash and shield stash.
-#### Weapon Stash
-1, 2, 5, 8
-#### Bow Stash
-1, 2, 5, 8
-#### Shield Stash
-1, 2, 4, 5, 10
-### Hyrule Compendium Prices
+This is the amount of Korok seeds you need for upgrading your weapons stash, bow stash and shield stash. You only need **421** Korok Seeds to max out your inventory via the stashes below.
+#### Weapon Stash - 153 Seeds needed total
+1. Slot +1: Korok Seed x1
+2. Slot +2: Korok Seed x2
+3. Slot +3: Korok Seed x3
+4. Slot +4: Korok Seed x5
+5. Slot +5: Korok Seed x8
+6. Slot +6: Korok Seed x12
+7. Slot +7: Korok Seed x17
+8. Slot+8: Korok Seed x25
+9. Slot +9: Korok Seed x35
+#### Bow Stash - 108 Seeds needed total
+1. Slot +1: Korok Seed x1
+2. Slot +2: Korok Seed x2
+3. Slot +3: Korok Seed x3
+4. Slot +4: Korok Seed x5
+5. Slot +5: Korok Seed x8
+6. Slot +6: Korok Seed x12
+7. Slot +7: Korok Seed x17
+8. Slot+8: Korok Seed x25
+9. Slot +9: Korok Seed x35
+10. Slot +10: Korok Seed x45
+#### Shield Stash - 160 Seeds needed total
+1. Slot +1: Korok Seed x1
+2. Slot +2: Korok Seed x2
+3. Slot +3: Korok Seed x3
+4. Slot +4: Korok Seed x4
+5. Slot +5: Korok Seed x5
+6. Slot +6: Korok Seed x10
+7. Slot +7: Korok Seed x10
+8. Slot+8: Korok Seed x10
+9. Slot +9: Korok Seed x10
+10. Slot +10: Korok Seed x10
+11. Slot +11: Korok Seed x15
+12. Slot +12: Korok Seed x15
+13. Slot +13: Korok Seed x15
+14. Slot +14: Korok Seed x15
+15. Slot +15: Korok Seed x15
+16. Slot +16: Korok Seed x20
+### Hyrule Compendium
+<a href="https://www.latecnosfera.com/2023/05/zelda-totk-complete-hyrule-compendium.html" target="_blank">Complete list with Locations from Tecnosofera</a>
+
 This is the feature that allows you to use Sensor+ to locate items. You get this by completing the Sensor & Sensor+ quests from Robbie. You can buy them from the Hateno Tech Lab, where Robbie will be after you complete these.
 To buy all pictures you need a total of **XX** Rupees. This amount goes down based on the number of pictures you take yourself.
-#### Fauna Picture
-87 total for 100 each
-#### Enemy Picture
-73 total for 100 each
-#### Material Picture
+#### Fauna Picture Price
+92 total for 100 each
+#### Enemy Picture Price
+110 total for 100 each
+#### Material Picture Price
 116 total for 100 each
-#### Weapon Picture
-XX total for 100 each
-#### Other Picture
-3 total for 100 each
+#### Weapon Picture Price
+175 total for 100 each
+#### Other Picture Price
+6 total for 100 each
 
 ### How EXP & Level Scaling works in TOTK & BOTW
 This is explained beautifully by Austin so I’m plugging his video. What it boils down to is this:
