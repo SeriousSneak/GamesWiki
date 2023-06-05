@@ -28,6 +28,7 @@ These are extremely useful for finding enemies, camps, etc.
 
 ### Upgrading Stashes
 This is the amount of Korok seeds you need for upgrading your weapons stash, bow stash and shield stash. You only need **421** Korok Seeds to max out your inventory via the stashes below.
+
 #### Weapon Stash - 153 Seeds needed total
 1. Slot +1: Korok Seed x1
 2. Slot +2: Korok Seed x2
@@ -38,6 +39,7 @@ This is the amount of Korok seeds you need for upgrading your weapons stash, bow
 7. Slot +7: Korok Seed x17
 8. Slot+8: Korok Seed x25
 9. Slot +9: Korok Seed x35
+
 #### Bow Stash - 108 Seeds needed total
 1. Slot +1: Korok Seed x1
 2. Slot +2: Korok Seed x2
@@ -49,6 +51,7 @@ This is the amount of Korok seeds you need for upgrading your weapons stash, bow
 8. Slot+8: Korok Seed x25
 9. Slot +9: Korok Seed x35
 10. Slot +10: Korok Seed x45
+
 #### Shield Stash - 160 Seeds needed total
 1. Slot +1: Korok Seed x1
 2. Slot +2: Korok Seed x2
@@ -66,6 +69,7 @@ This is the amount of Korok seeds you need for upgrading your weapons stash, bow
 14. Slot +14: Korok Seed x15
 15. Slot +15: Korok Seed x15
 16. Slot +16: Korok Seed x20
+
 ### Hyrule Compendium
 <a href="https://www.latecnosfera.com/2023/05/zelda-totk-complete-hyrule-compendium.html" target="_blank">Complete list with Locations from Tecnosofera</a>
 
