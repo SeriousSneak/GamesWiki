@@ -20,5 +20,7 @@
   "anuppuccin-theme-settings@@ctp-custom-rosewater@@dark": "#0C8FB9",
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-light": false,
   "anuppuccin-theme-settings@@anp-pdf-blend-toggle-dark": true,
-  "anuppuccin-theme-settings@@anp-pdf-blend-toggle-light": true
+  "anuppuccin-theme-settings@@anp-pdf-blend-toggle-light": true,
+  "anuppuccin-theme-settings@@anp-rainbow-file-toggle": true,
+  "anuppuccin-theme-settings@@anp-rainbow-folder-bg-opacity": 0.1
 }

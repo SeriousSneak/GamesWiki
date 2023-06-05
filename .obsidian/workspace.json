@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "37c36b40742d5e46",
+            "type": "leaf",
+            "state": {
+              "type": "style-settings",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0c02b48a8867954",
+  "active": "308ee5f4cdd89066",
   "lastOpenFiles": [
     "ACNH/NPC-Schedules.md",
     "index.md",
