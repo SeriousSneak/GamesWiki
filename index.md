@@ -42,8 +42,6 @@ If you are looking for any content, check the links below!
 ### Tears of the Kingdom
 [Index](../botw-totk/totk/index.html)
 
-[All Armor Sets](../botw-totk/totk/all-armor.html)
-
 [All Pony Point Rewards](../botw-totk/totk/allponypoints.html)
 
 [All Shrine, Towers, & Lightroot Locations & Rewards](../botw-totk/totk/allshrinelighttower.html)

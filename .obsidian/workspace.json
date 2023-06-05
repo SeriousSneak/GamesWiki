@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f135989b0d7c193c",
-            "type": "leaf",
-            "state": {
-              "type": "style-settings",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,13 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f135989b0d7c193c",
+  "active": "463a427898842bbf",
   "lastOpenFiles": [
+    "botw-totk/totk/allshrinelighttower.md",
     "botw-totk/totk/allponypoints.md",
-    "botw-totk/totk/all-armor.md",
     "botw-totk/totk/index.md",
-    "ACNH/NPC-Schedules.md",
     "index.md",
+    "botw-totk/totk/all-armor.md",
+    "ACNH/NPC-Schedules.md",
     "ts3-ts4/index.md",
     "botw-totk/botw/index.md",
     "ACNH/index.md",
@@ -200,7 +192,6 @@
     "images/seasonal_items.png",
     "images/roost.jpeg",
     "images/rock_gardens101.png",
-    "botw-totk/totk/allshrinelighttower.md",
     "botw-totk/botw/UpgradeMaterials4Armors.md",
     "ACNH/orderbots-codes.md"
   ]
