@@ -12,9 +12,12 @@ This is where I have all of the other resources I use for Zelda: Tears of the Ki
 <h4>Interactive Maps</h4>
 These are extremely useful for finding enemies, camps, etc.
 
-<a href="https://www.ign.com/maps/the-legend-of-zelda-tears-of-the-kingdom/hyrule">IGN's TOTK Interactive Map</a> - This one is good though it isn't obvious how to get to the depths or sky island maps. For reference, you scroll all of the way up or down and eventually you will get to the other maps. Not as user friendly as it could be.
+<a href="https://www.ign.com/maps/the-legend-of-zelda-tears-of-the-kingdom/hyrule" target="_blank">IGN's TOTK Interactive Map</a> - This one is good though it isn't obvious how to get to the depths or sky island maps. For reference, you scroll all of the way up or down and eventually you will get to the other maps. Not as user friendly as it could be.
 
-<a href="https://www.zeldadungeon.net/tears-of-the-kingdom-interactive-map">Zelda Dungeon Interactive Map</a> - This is the one I use. It is super simple to filter items on the right side and you can get to the other maps by clicking buttons on the left. They even link to more information on how to get Koroks.
+<a href="https://www.zeldadungeon.net/tears-of-the-kingdom-interactive-map" target="_blank">Zelda Dungeon Interactive Map</a> - This is the one I use. It is super simple to filter items on the right side and you can get to the other maps by clicking buttons on the left. They even link to more information on how to get Koroks.
+
+<a href="https://zeldamaps.com/?game=TotK&map=2102&subMap=2102" target="_blank">Zelda Maps Interactive Map</a>- This is my new favorite map. I use it in combination with the Zelda Dungeon map as the items here only show coordinates and not guides how to get the items like Koroks.
+
 <h4>Other Resources</h4>
 <a href="https://docs.google.com/spreadsheets/d/1an06KpSDgW0MLfFs346EOXXBhElYuzTvPhdxXp6T8Hs/edit#gid=750468372" target="_blank">Tears of the Kingdom Armor Google Sheet Document</a> - This is a better list (than what I had) of all of the armors and what is needed to upgrade them. It also includes set bonus information and the total materials needed to upgrade everything.
 
