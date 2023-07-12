@@ -7,6 +7,6 @@ layout: default
 This is where I store everything I used to 100% the Zelda: Breath of the Wild. This is going to be a simple section since I’m no longer playing this game. In this folder I'm going to provide links to YouTube Channels I used to progress through the game as well as other information I found out whilst playing.
 
 ## Links
-[Miscellaneous Information](../../misc.html)
+[Miscellaneous Information](../../botw-totk/botw/misc.html)
 
-[All Upgrade Materials for Armors](../../UpgradeMaterials4Armors.html)
+[All Upgrade Materials for Armors](../../botw-totk/botw/UpgradeMaterials4Armors.html)
