@@ -1,1 +1,0 @@
-This is a list created by [u/Fuzz_Button](https://www.reddit.com/user/Fuzz_Button/) on Reddit. I have copied it over and converted it to be here.
