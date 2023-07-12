@@ -1,6 +1,0 @@
-/* hide attachments folder */
-div[data-path='-Archives'],
-div[data-path='-Archives'] + div.nav-folder-children
-{
-    display: none;
-}
