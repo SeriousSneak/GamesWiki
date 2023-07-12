@@ -18,6 +18,8 @@ These are extremely useful for finding enemies, camps, etc.
 
 <a href="https://zeldamaps.com/?game=TotK&map=2102&subMap=2102" target="_blank">Zelda Maps Interactive Map</a>- This is my new favorite map. I use it in combination with the Zelda Dungeon map as the items here only show coordinates and not guides how to get the items like Koroks.
 
+[TOTK Object Map](https://objmap-totk.zeldamods.org/#/map/z3,0,0)- This is the best object map I've found. I use this when I am looking for a particular object or enemy. Perfect when looking for that one specific thing.
+
 <h4>Other Resources</h4>
 <a href="https://docs.google.com/spreadsheets/d/1an06KpSDgW0MLfFs346EOXXBhElYuzTvPhdxXp6T8Hs/edit#gid=750468372" target="_blank">Tears of the Kingdom Armor Google Sheet Document</a> - This is a better list (than what I had) of all of the armors and what is needed to upgrade them. It also includes set bonus information and the total materials needed to upgrade everything.
 
